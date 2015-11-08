@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/luisfilipedias/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.7.0/d8c0e81a68812893d0bf80cea37fbcba9f23d38b/gdx-backend-android-1.7.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d8c0e81a68812893d0bf80cea37fbcba9f23d38b">
+        <dex dex="/home/luisfilipedias/Android/Apps/Pong/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.7.0-435aa6c2d6ccc388fe3bbe088a3a5088ae089cb7.jar" />
+    </item>
+    <item
+        jar="/home/luisfilipedias/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.7.0/1b08c96132448b5ab9c0cc8dea3e985dcf0166fd/gdx-1.7.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1b08c96132448b5ab9c0cc8dea3e985dcf0166fd">
+        <dex dex="/home/luisfilipedias/Android/Apps/Pong/android/build/intermediates/pre-dexed/debug/gdx-1.7.0-8f9352d2fd8b6fb467626f431b6b03ae7f9c532b.jar" />
+    </item>
+    <item
+        jar="/home/luisfilipedias/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.7.0/a560f1f94b939f2b5ccd4eec752797c3ea6e1c92/gdx-box2d-1.7.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a560f1f94b939f2b5ccd4eec752797c3ea6e1c92">
+        <dex dex="/home/luisfilipedias/Android/Apps/Pong/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.7.0-3a1edaa8a974c74215d3765e6bc8d76a995ee49d.jar" />
+    </item>
+    <item
+        jar="/home/luisfilipedias/Android/Apps/Pong/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="29c43ee175fef5321070ba5e424c1a0095189466">
+        <dex dex="/home/luisfilipedias/Android/Apps/Pong/android/build/intermediates/pre-dexed/debug/core-1.0-65e544b0c7e52e448cb07a092073b6beabfb32f1.jar" />
+    </item>
+
+</items>
